@@ -1,0 +1,8 @@
+{
+  "name": "Remix HydroWatch - RVCE Smart Waterlogging \u0026 Safety System",
+  "description": "Real-time IoT waterlogging monitoring, RVCE campus flood mapping, vehicle clearance passability prediction, and rising water hazard detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
